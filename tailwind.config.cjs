@@ -12,7 +12,7 @@ module.exports = {
     },
     colors: {
       transparent: "transparent",
-      "brand-white": "#FFFFFF",
+      "brand-white": "#fff",
       "brand-warning": "CC6F6F",
       "brand-grey-200": "#C8C8D1",
       "brand-grey-500": "#7C7C8A",
